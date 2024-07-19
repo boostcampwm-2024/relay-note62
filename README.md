@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7b67e729-4c36-400c-bf5b-2d568234fc0a)
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/7b67e729-4c36-400c-bf5b-2d568234fc0a">
 
 # ☕ 티타임머신
 
