@@ -116,17 +116,29 @@ J010\_고은수 : 퀘스트 2 선택, 할까말까할땐 하자 라는 마인드
    - extends를 통한 클래스 상속
    - super를 통한 상위 클래스 호출
 
+2. [7/25] Node.js 문서 - [Worker Thread](https://nodejs.org/api/worker_threads.html)
+
+   - 자바스크립트 코드를 parallel하게 돌릴 수 있도록 해주는 모듈
+   - worker thread 모듈을 이용해 멀티스레드 환경을 구축
+   - 사용법: `const { Worker } = require('node:worker_threads')`
+
+3. [7/25] Node.js 문서 - [Event Emitter](https://nodejs.org/docs/latest/api/events.html)
+
+- 사용법:
+  - `const EventEmitter = require('node:events');`
+  - `const myEmitter = new MyEmitter();`
+
 ### 퀘스트 6
 
-+ Mon
-   1. 객체 지향 설계 (클래스, 객체, 인스턴스)
-   2. 상속
-+ Tue
+- Mon
+  1.  객체 지향 설계 (클래스, 객체, 인스턴스)
+  2.  상속
+- Tue
   1. 정규 표현식
   2. Unit Test
-+ Wed
+- Wed
   1. 함수형 프로그래밍
   2. 연결 리스트
-+ Thu
+- Thu
   1. 비동기 처리
   2. Publisher - Subscriber 패턴
