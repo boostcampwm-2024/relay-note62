@@ -138,6 +138,8 @@ Null
   - 2개 이상 작성해야 합니다.
   - 매일 퀘스트를 수행해야 합니다.
 
+![Screenshot 2024-07-26 at 5 15 02 PM](https://github.com/user-attachments/assets/e6b590ce-c4b7-4f84-9983-cb0ea9dfb606)
+
 ## Week1
 
 ### 퀘스트 분배
