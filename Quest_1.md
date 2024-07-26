@@ -106,7 +106,7 @@ J010\_고은수 : 퀘스트 2 선택, 할까말까할땐 하자 라는 마인드
 ### 퀘스트 4
 ![KakaoTalk_Photo_2024-07-26-13-34-06](https://github.com/user-attachments/assets/a424990d-f688-4660-845f-82f965b344cd)
 핸드폰과 거리두니까 행복했어요. 
-
+> @오뜨아르, 경기도 용인.
 ### 퀘스트 5
 
 1. [7/23] mdn 문서 - [Class](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Classes)
