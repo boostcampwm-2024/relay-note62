@@ -288,4 +288,15 @@ J010\_고은수 : 퀘스트 2 선택, 할까말까할땐 하자 라는 마인드
 
 ### 퀘스트 5
 
+- EventEmitter에 대해 찾아보고 사용법과 실제 내부적으로 어떤 순서로 동작하는지 정리하였습니다.
+[Node.js Event emitter](https://nodejs.org/en/learn/asynchronous-work/the-nodejs-event-emitter)
+
+- 미션을 진행하며 fs 모듈을 사용해야되는 경우가 있어 공식문서를 확인했으며 파일 시스템에 동기적/비동기적으로 접근하는 방법에 대해 학습했습니다.
+[Node.js File system](https://nodejs.org/api/fs.html)
+
+- git에 대해 공부하며 실제 git이 내부적으로 어떻게 동작하고 파일 상태는 어떻게 관리되는지 정리하였습니다.
+[Git Documentation Pro Book](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
+
+
+
 ### 퀘스트 6
