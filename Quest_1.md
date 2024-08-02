@@ -281,11 +281,13 @@ J010\_고은수 : 퀘스트 2 선택, 할까말까할땐 하자 라는 마인드
 
 - 1일차
 
-![image](https://gist.github.com/user-attachments/assets/17b4a4ad-269a-4a4c-bb83-44c4936c6222)
+![image](https://github.com/user-attachments/assets/5b01029d-777f-4104-9733-173bb658f8f3)
+
 
 - 2일차
 
-![image](https://gist.github.com/user-attachments/assets/b66ffe61-690e-4af6-9359-51342ce087fc)
+![image](https://github.com/user-attachments/assets/a97423f4-7602-4084-881c-3869351a1f68)
+
 
 
 ### 퀘스트 3
