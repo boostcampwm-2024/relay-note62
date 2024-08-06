@@ -22,6 +22,14 @@
     - 지금 듣는 노래를 슬랙에 공유한 뒤, 인증샷을 기록하기
 
 - 선정 이유: 사실 커피 마시는 것이 더 좋아보이지만, 플레이리스트 공유도 흥미로울 것 같아서 골랐습니다
+- 수행 인증
+  - 1일차
+    
+![1일차 인증](https://github.com/user-attachments/assets/0a3fbdbf-ec75-4abc-8fec-d6f1f40c58d4)
+
+  - 2일차
+
+![2일차 인증](https://github.com/user-attachments/assets/1dd1ba3b-2b67-4daa-894a-d684145650cd)
 
 ### 퀘스트 3 - **J103 박무성**
 
